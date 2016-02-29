@@ -1,0 +1,4 @@
+Define names (firstName, lastName, phoneNum, addressName, emailName)
+Allocate numbers to names for random number generator
+cycle generate random number for each name
+print out each name
