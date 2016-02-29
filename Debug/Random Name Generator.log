@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Random Name Generator.cpp
+g:\documents\programming\c++\new stuff\random-name-generator\random name generator.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\documents\programming\c++\new stuff\random-name-generator\random name generator.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\documents\programming\c++\new stuff\random-name-generator\random name generator.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\documents\programming\c++\new stuff\random-name-generator\random name generator.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\documents\programming\c++\new stuff\random-name-generator\random name generator.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Name Generator.vcxproj -> G:\Documents\Programming\C++\NEW STUFF\Random-Name-Generator\Debug\Random Name Generator.exe

@@ -61,7 +61,27 @@ int main()
 	std::cin.ignore();
 
 	// Checking user response to determine whether or not to restart
-	if()
+	while (true)
+	{
+		if (restartGenerator == "y" || restartGenerator == "Y" || restartGenerator == "n" || restartGenerator == "N")
+		{
+			if (restartGenerator == "Y" || restartGenerator == "y")
+			{
+				main();
+			}
+			if (restartGenerator == "N" || restartGenerator == "n")
+			{
+				std::cout << "\nThank-you!\n";
+			}
+		}
+		else
+		{
+			std::cout << "\nPlease enter Y/N!\n";
+		}
+
+		break;
+	}
+	
 
     return 0;
 }
