@@ -1,3 +1,3 @@
 ========================================================================
-      RANDOM NAME GENERATOR - BY JAKE R. USING C++ AND MY PENIS
+      CHALLENGE #1 - RANDOM NAME GENERATOR - WRITTEN BY JAKE IN C++
 ========================================================================
